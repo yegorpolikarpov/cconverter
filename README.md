@@ -6,7 +6,7 @@ Exchange rates imported from http://www.floatrates.com/
 To learn more about this project, please visit [Hyperskill Website - Currency Converter](https://hyperskill.org/projects/157)
 # How to run
 
-```python
+```console
   > python cconverter.py
   > USD
   > KZT
